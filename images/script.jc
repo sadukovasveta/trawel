@@ -1,0 +1,4 @@
+ AOS.init(init);
+ <div data-aos="fade-up"
+     data-aos-anchor-placement="bottom-center">
+</div>
